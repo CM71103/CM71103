@@ -9,7 +9,7 @@
 
 ---
 
-<img src="https://via.placeholder.com/800x320.png?text=%E2%9E%A4+A.N.L.P+ChandraMouli+%7C+Software+Engineering" alt="Premium Header Banner" width="100%">
+<img src="Tech-Driven SDE Banner.png" alt="Premium Header Banner" width="100%">
 
 <br><br>
 
