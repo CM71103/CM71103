@@ -31,10 +31,13 @@
 
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="OOP, Core DSA Architecture, and Game Engines" alt="Java"> &nbsp;
 <img src="https://img.shields.io/badge/Haskell-%235e5086.svg?style=for-the-badge&logo=haskell&logoColor=white" title="Functional Programming, Pure Functions & Higher-Order Folds" alt="Haskell"> &nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="BCNF Database Optimization & Low-Latency Query Execution" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="BCNF Database Optimization & Low-Latency Query Execution" alt="PostgreSQL"> &nbsp;
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" title="NoSQL Document Stores, Flexible Schema Design & Aggregations" alt="MongoDB">
+
 <br>
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" title="Automation, Scripting & Algorithmic Path Optimization" alt="Python"> &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" title="Dynamic Web Runtimes & Fullstack Architectures" alt="JavaScript"> &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" title="Strict Type Safety, Scalable Architecture & Modern App Development" alt="TypeScript"> &nbsp;
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Version Control & Multi-branch Collaborations" alt="Git">
 
 ---
