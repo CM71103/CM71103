@@ -28,12 +28,12 @@
 <!-- Badges / Dynamic Stats Sections (Mirrors the Product Hunt / Trending Badges) -->
 <p>
   <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-blueviolet?style=for-the-badge" alt="Status Badge">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=gold" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/CM71103?style=for-the-badge&color=gold" alt="GitHub Stars">
 </p>
 
 <p>
   <!-- GitHub Readme Stats Card (Centered like the metrics in the image) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=CM71103&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="400">
 </p>
 
 <br>
