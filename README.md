@@ -26,12 +26,12 @@
 <!-- Dynamic Status Badges & Live GitHub Stats -->
 <p>
   <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-blueviolet?style=for-the-badge" alt="Status Badge">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=gold" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/CM71103?style=for-the-badge&color=gold" alt="GitHub Stars">
 </p>
 
 <p>
   <!-- Interactive-feeling stats tracking -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=CM71103&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="400">
 </p>
 
 <br>
@@ -59,7 +59,7 @@
 
 *   **Core Purpose:** A robust database system designed to handle high-volume ordering workflows for Amrita Canteen Management.
 *   **Technical Deep-Dive:** Powered by **PostgreSQL**. Fully normalized up to **BCNF** to completely eliminate data redundancy and minimize heavy query execution times.
-*   **Interactive Link:** [Explore Codebase →](https://github.com/YOUR_USERNAME/DBMS1)
+*   **Interactive Link:** [Explore Codebase →](https://github.com/CM71103/DBMS1)
 </details>
 
 <details>
@@ -68,7 +68,7 @@
 
 *   **Core Purpose:** A fast, Java-based search platform engineered using advanced data structures.
 *   **Technical Deep-Dive:** Implemented **Bloom Filters** for instant membership checking and **Prefix Arrays (Tries)** for ultra-fast query autocomplete.
-*   **Interactive Link:** [Explore Codebase →](https://github.com/YOUR_USERNAME/Search-Engine)
+*   **Interactive Link:** [Explore Codebase →](https://github.com/CM71103/Search-Engine)
 </details>
 
 <details>
@@ -77,7 +77,7 @@
 
 *   **Core Purpose:** A hybrid, algorithm-based implementation of the classic Connect-4 game.
 *   **Technical Deep-Dive:** Built using **Java** to manage high-efficiency game state logic and algorithmic decision-making.
-*   **Interactive Link:** [Explore Codebase →](https://github.com/YOUR_USERNAME/Connect-4)
+*   **Interactive Link:** [Explore Codebase →](https://github.com/CM71103/Connect-4)
 </details>
 
 <details>
@@ -86,7 +86,7 @@
 
 *   **Core Purpose:** A service provider agent platform built with structured web frontends.
 *   **Technical Deep-Dive:** Handcrafted layouts using clean, semantic **HTML**.
-*   **Interactive Link:** [Explore Codebase →](https://github.com/YOUR_USERNAME/Task-Rabbit)
+*   **Interactive Link:** [Explore Codebase →](https://github.com/CM71103/Task-Rabbit)
 </details>
 
 <details>
@@ -95,7 +95,7 @@
 
 *   **Core Purpose:** A lightweight routing or travel path optimization algorithm script.
 *   **Technical Deep-Dive:** Written completely in native **Python** utilizing efficient list comprehensions.
-*   **Interactive Link:** [Explore Codebase →](https://github.com/YOUR_USERNAME/Voyageur)
+*   **Interactive Link:** [Explore Codebase →](https://github.com/CM71103/Voyageur)
 </details>
 
 <details>
@@ -104,7 +104,7 @@
 
 *   **Core Purpose:** Comprehensive web application built on top of the IBM Fullstack Developer Capstone architecture.
 *   **Technical Deep-Dive:** Utilizes **JavaScript** to tie together asynchronous operations, API structures, and a responsive frontend interface.
-*   **Interactive Link:** [Explore Codebase →](https://github.com/YOUR_USERNAME/fullstack_cardealership)
+*   **Interactive Link:** [Explore Codebase →](https://github.com/CM71103/fullstack_cardealership)
 </details>
 
 ---
@@ -113,7 +113,7 @@
 
 <div align="center">
   <!-- Interactive GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CM71103&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%">
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CM71103&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="49%">
 </div>
